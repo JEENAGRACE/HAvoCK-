@@ -21,6 +21,11 @@ Each button performs the above mentioned function.
 
 The codes are as provided in the link : https://github.com/JEENAGRACE/HAvoCK-
 
+![image](https://github.com/JEENAGRACE/HAvoCK-/assets/162813942/4641f3e3-46a5-4d8a-99dd-19c75e2a658d)
+
+![image](https://github.com/JEENAGRACE/HAvoCK-/assets/162813942/95754aca-e242-4201-9f16-7a114321a7c1)
+
+
 
 ## Applications
 
