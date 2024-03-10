@@ -16,7 +16,7 @@ Emotion-based Quote Generator, or simply Emo Quote Generator is a type of web-ba
 An HTML file was created to  set up the basic structure which contains the buttons with different emotions .
 The user can choose any emotion based on their mood by clicking and it redirects to the next  page .
 This page contains  random quotes based on the chosen emotion , which on clicking a button “Wanna see moree??” changes to a new one .
-This is implemented by creating  a JavaScript file for the application logic .Here we declare an array to store your quotes. Using a  function that, when triggered by the button “more”, selects a random quote from the array and updates the content in the HTML.
+This is implemented by creating  a JavaScript file for the application logic .Here we declare an array to store your quotes. Using a  function that, when triggered by the button “Wanna see moree??”, selects a random quote from the array and updates the content in the HTML.
 Each button performs the above mentioned function.
 
 The codes are as provided in the link : https://github.com/JEENAGRACE/HAvoCK-
@@ -36,7 +36,7 @@ Teachers and educators can incorporate random quote generators into their lesson
 - **Content Creation:**
 Writers, bloggers, and content creators can use a random quote generator to spark creativity, overcome writer's block, or find relevant quotes to include in their articles, blog posts, or social media updates.
 - **Social Media Engagement:**
-•	Social media platforms can integrate random quote generators to encourage user engagement by sharing thought-provoking or entertaining quotes.
+Social media platforms can integrate random quote generators to encourage user engagement by sharing thought-provoking or entertaining quotes.
 - **Programming and Development:**
 In coding and software development, a random quote generator can be used for testing and demonstrating how to fetch and display data dynamically.
 - **Icebreakers and Team Building:**
