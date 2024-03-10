@@ -56,3 +56,10 @@ Marketers can leverage random quote generators in campaigns to convey brand mess
 - **Bookmarks or Cards:**
 Create physical or digital bookmarks, cards, or posters with randomly generated quotes for distribution as promotional items or gifts.
 
+## Prepared by
+**Team HAvoCK**
+Members :
+	Jeena Grace Mathew
+ 	Jesmi Jayan
+  	Keerthana K R
+
