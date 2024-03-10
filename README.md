@@ -15,7 +15,7 @@ Emotion-based Quote Generator, or simply Emo Quote Generator is a type of web-ba
 
 An HTML file was created to  set up the basic structure which contains the buttons with different emotions .
 The user can choose any emotion based on their mood by clicking and it redirects to the next  page .
-This page contains  random quotes based on the chosen emotion , which on clicking a button “more” changes to a new one .
+This page contains  random quotes based on the chosen emotion , which on clicking a button “Wanna see moree??” changes to a new one .
 This is implemented by creating  a JavaScript file for the application logic .Here we declare an array to store your quotes. Using a  function that, when triggered by the button “more”, selects a random quote from the array and updates the content in the HTML.
 Each button performs the above mentioned function.
 
