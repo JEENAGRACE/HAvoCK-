@@ -7,7 +7,7 @@ let quote = [
 '“All our dreams can come true — if we have the courage to pursue them.”- Walt Disney',
 '"Dont give up on your dreams, or your dreams will give up on you." - John Wooden.',
 '"Never be ashamed! There is some who will hold it against you, but they are not worth bothering with." - J. K. Rowling.',
-'"Love what you do and do what you love. Dont listen to anyone else who tells you not to do it. You do what you want, what you love. Imagination should be the center of your life." - Ray Bradbury.',
+'"Every Morning You Have Two Choices: Continue To Sleep With Your Dreams, Or Wake Up and Chase Them."- Carmelo Anthony',
 '"It is better to risk starving to death than surrender. If you give up on your dreams, whats left?" - Jim Carrey.',
 '"Remember to celebrate milestones as you prepare for the road ahead." -- Nelson Mandela.',
 '"The only thing worse than starting something and failing... is not starting something." - Seth Godin.',
