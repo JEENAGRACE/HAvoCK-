@@ -58,8 +58,8 @@ Create physical or digital bookmarks, cards, or posters with randomly generated 
 
 ## Prepared by
 **Team HAvoCK**
-Members :
-	Jeena Grace Mathew
- 	Jesmi Jayan
-  	Keerthana K R
+- Members :
+	- Jeena Grace Mathew
+ 	- Jesmi Jayan
+  	- Keerthana K R
 
